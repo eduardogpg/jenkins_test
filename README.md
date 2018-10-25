@@ -2,3 +2,4 @@
 
 New line
 Now with Time
+Exit
